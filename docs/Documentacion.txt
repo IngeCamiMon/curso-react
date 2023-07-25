@@ -1,0 +1,7 @@
+1. Instalar vs code
+2. ir a https://create-react-app.dev/docs/adding-typescript/
+3. crear el proyecto y abrir en el terminal
+4. Ejecutar en git el comando npx create-react-app my-app --template typescript
+5. una ves creada la carpeta ejecutrar el proyecto con el comando npm run start
+6. Modificar plantilla
+7. 
